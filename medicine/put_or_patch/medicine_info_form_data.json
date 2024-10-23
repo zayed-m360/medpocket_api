@@ -1,0 +1,23 @@
+endpoint er last e prescription_id
+{
+    "prescription": "/storage/photo/0/prescription.jpg",
+    "desease": "iugl rhgs ihg",
+    "medicinces":[
+        {
+            "name" : "Napa",
+            "note" : "ewfgiegfiwepfpagpf", 
+            "type" : "Tablet", 
+            "dose" : {
+                "from" : "2012-04-23T18:25:43.511Z",
+                "to" : "2012-05-23T18:25:43.511Z",
+                "notification" : true,
+                "time" : [
+                    "10:00",
+                    "14:00",
+                    "18:00",
+                    "20:00"
+                ]
+            }
+        }
+    ]
+}

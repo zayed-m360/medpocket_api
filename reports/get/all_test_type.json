@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "status": 200,
+    "message": "request was successful",
+    "data": [
+        {
+            "test_id" : 101,
+            "test_name": "Ultrasonograph"
+        },
+        {
+            "test_id" : 102,
+            "test_name": "ECG"
+        },
+        {
+            "test_id" : 103,
+            "test_name": "Echo"
+        }
+    ]
+}

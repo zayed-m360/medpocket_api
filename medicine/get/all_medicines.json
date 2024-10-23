@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "status": 200,
+    "message": "request was successful",
+    "data": [
+        {
+            "prescription_id": 101,
+            "prescription": "/storage/photo/0/prescription.jpg",
+            "desease": "iugl rhgs ihg",
+            "medicinces":[
+                {
+                    "name" : "Napa",
+                    "note" : "ewfgiegfiwepfpagpf",
+                    "type" : "Tablet", 
+                    "is_running" : true,
+                    "dose" : {
+                        "from" : "2024-10-15T18:25:43.511Z",
+                        "to" : "2024-12-23T18:25:43.511Z",
+                        "notification" : true,
+                        "time" : [
+                            "10:00",
+                            "14:00",
+                            "18:00",
+                            "20:00"
+                        ]
+                    }
+                },{
+                    "name" : "Patadin Max",
+                    "note" : "ewfgiegfiwe woeif owef pfpagpf", 
+                    "type" : "Drop", 
+                    "is_running" : false,
+                    "dose" : {
+                        "from" : "2024-08-23T18:25:43.511Z",
+                        "to" : "2024-10-08T18:25:43.511Z",
+                        "notification" : true,
+                        "time" : [
+                            "10:00",
+                            "14:00",
+                            "18:00",
+                            "20:00"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

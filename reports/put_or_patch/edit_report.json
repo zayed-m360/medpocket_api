@@ -1,0 +1,10 @@
+endpoint e test_id
+{
+    "hospital": "abc hospital def dhaka",
+    "location": "awaoif aofiho afe wWO I",
+    "phone_number": "01812345678",
+    "remarks": "faehfowh foieafowef eiow fhowei",
+    
+    "photo01": "storage/photo01.jpg",
+    "photo02": "storage/photo02.jpg",
+}

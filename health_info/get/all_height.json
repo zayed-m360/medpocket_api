@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "status": 200,
+    "message": "request was successful",
+    "data": [
+        {
+            "height" : 177,
+            "date" : "2012-04-23T18:25:43.511Z"
+        },
+        {
+            "height" : 177,
+            "date" : "2012-04-22T18:25:43.511Z"
+        },{
+            "height" : 176,
+            "date" : "2012-01-20T18:25:43.511Z"
+        },{
+            "height" : 175,
+            "date" : "2011-10-23T18:25:43.511Z"
+        }
+    ]
+}

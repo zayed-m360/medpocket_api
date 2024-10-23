@@ -1,0 +1,28 @@
+get request url er endpoint e test_id dite hobe
+
+{
+    "success" : true,
+    "status" : 200,
+    "message" : "request was successful",
+    "data" : [
+        {
+            "report_id" : 101,
+            "test_name": "ECG",
+            "test_id": 102,
+            "hospital": "abc hospital dhaka",
+            "location": "awaoif aofiho af",
+            "phone_number": "01812345678",
+            "photos":[
+                {
+                    "report_image": "storage/photo01.jpg"
+                },
+                {
+                    "report_image": "storage/photo02.jpg"
+                },
+                {
+                    "report_image": "storage/photo03.jpg"
+                }
+            ]
+        }
+    ]
+}

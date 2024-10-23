@@ -1,0 +1,28 @@
+{
+    "success" : true,
+    "status" : 200,
+    "message" : "request was successful",
+    "data" : [
+        {
+            "id" : 11,
+            "name" : "Napa",
+            "type" : "Tablet",
+            "time" : "14:00",
+            "has_taken" : true
+        },
+        {
+            "id" : 12,
+            "name" : "Seclo",
+            "type" : "Tablet",
+            "time" : "16:00",
+            "has_taken" : false
+        },
+        {
+            "id" : 13,
+            "name" : "Napa",
+            "type" : "Tablet",
+            "time" : "18:00",
+            "has_taken" : true
+        }
+    ]
+}
